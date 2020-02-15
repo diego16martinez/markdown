@@ -27,7 +27,7 @@ signo | resultado
 
 
 
-* con * ó - o + creamos las listas
+* con * ó - ó + creamos las listas
 + item de lista
 - item de lista
 
@@ -55,6 +55,9 @@ El resultado de ejecutar codigo es el siguiente:
 [buscar](http://goole.com)
 (http://goole.com)
 
-### para mostrar imagenes
+### para mostrar imagenes utilizamos (![texto alternativo](ruta de imagen/imagen.extencion))
 
-![diseño](/imagenes/diseñomotocicleta.jpg)
+![motocicleta](/imagenes/diseñomotocicleta.jpg)
+
+### para las citas utilizamos el signo mayor que(>) y sin dejar espacios ponemos el texto
+>esto es una cita
