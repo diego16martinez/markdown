@@ -56,3 +56,5 @@ El resultado de ejecutar codigo es el siguiente:
 (http://goole.com)
 
 ### para mostrar imagenes
+
+![diseño](/imagenes/diseñomotocicleta.jpg)
