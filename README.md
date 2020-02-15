@@ -1,5 +1,6 @@
-### tutorial markdown
+# TUTORIAL MARKDOWN
 
+### Los titulos los creamos utilizando el signo numeral(#) antes del texto
 # titulo1 
 ## titulo2
 ### titulo3
@@ -50,6 +51,8 @@ pedro | 2.2 | 2
 ~~~ 
 El resultado de ejecutar codigo es el siguiente:
 ~~~
-### enlaces
+###  los enlaces los creamos utilizando ([txt a mostrar](la url)) o solo los () para mostrar directamente la url
 [buscar](http://goole.com)
 (http://goole.com)
+
+### para mostrar imagenes
